@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BryOrellana/laboratorio9/precache-manifest.06b4128919335db5d8515dfbfaf48b94.js"
+  "/BryOrellana/laboratorio9/precache-manifest.5c63ac45059d3b4efe33dc0f1642202b.js"
 );
 
 self.addEventListener('message', (event) => {
